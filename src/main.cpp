@@ -4,7 +4,7 @@
 
 const char* ssid = "ESPTEST";      
 const char* password = "123456789";
-const char* serverUrl = "http://192.168.18.58:3000/api/telemetry"; 
+const char* serverUrl = "http://192.168.18.58:3000/api/telemetry/"; 
 const char* device_id = "GATE_B"; 
 const int ledPin = 2; 
 
